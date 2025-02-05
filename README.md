@@ -50,11 +50,6 @@ This project involves the development of a **smart chatbot** using a **React fro
 
 ---
 
-## Project Repository
-For more details, visit the project repository: [GitHub Link](#)
-
----
-
 ## Contact Information
 For inquiries or collaboration opportunities, please contact:
 - **Email:** dinidudew@gmail.com
