@@ -39,18 +39,12 @@ The chatbot leverages **Natural Language Processing (NLP)** and **Machine Learni
 ```bash
 git clone https://github.com/your-username/Smart-Chat-Bot.git
 cd Smart-Chat-Bot
-Here’s your entire requested section rewritten in **Markdown format**, ready to paste directly into your `README.md`:
-
----
-
-````markdown
+```
 ### 2️⃣ Install Dependencies
 ```bash
 pip install -r requirements.txt
 ````
-
 ### 3️⃣ Run the Chatbot
-
 ```bash
 python chatbot.py
 ```
